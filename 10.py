@@ -10,5 +10,6 @@ def r(n):
 def triangle(x):
     for i in range(x):
         print(r(i+1))
+    return ' '
 a=int(input())
 print(triangle(a+1))
