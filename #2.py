@@ -1,4 +1,4 @@
-def r(n):
+    def r(n):
     t = []
     for i in range(n):
         if i == 0 or i == n-1:
